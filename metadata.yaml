@@ -19,6 +19,8 @@ description: The present Cambridge Edition of Mr. Lowell's poems contains, subst
   his death in the definitive Riverside Edition of his writings, and in addition the
   small group contained in the Last Poems, collected by his literary executor, Mr.
   Charles Eliot Norton. - Publisher's note.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13310#The-Complete-Poetical-Works-of-James-Russell-Lowell
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2004-08-28'
 gutenberg_type: Text
